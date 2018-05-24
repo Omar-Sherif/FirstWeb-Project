@@ -1,0 +1,42 @@
+body{
+  margin: 0px;
+  padding: opx;
+  font-family: Arial,Tahoma;
+
+}
+
+ul{
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.header{
+  background: #0B1734;
+  color: #FD6C64;
+  font-size: 20px;
+  text-align: center;
+  padding: 25px
+}
+
+.navigation{
+
+  background: #34E2B9;
+  color: #000000;
+  text-align: center;;
+}
+.content{
+  text-align: center;
+  padding: 20px;
+
+}
+.footer{
+  background: #0B1734;
+  color: #FD6C64;
+  text-align: center;
+  padding: 10px;
+}
